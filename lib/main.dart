@@ -9,7 +9,7 @@ class Myapp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.white12,
+        backgroundColor: Colors.black,
         body: SafeArea(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
